@@ -1,2 +1,4 @@
 # -Online-Shopping-Cart-SQL
-The goal of the project is to provide a comprehensive set of SQL queries that can be used as a starting point for developing custom reports and analytics tools. 
+The Online-Shopping-Cart-SQL project is a collection of SQL queries designed to extract relevant information from a typical online shopping cart database. The queries cover a wide range of use cases, including retrieving user information, order details, product data, store locations, and more. The goal of the project is to provide a comprehensive set of SQL queries that can be used as a starting point for developing custom reports and analytics tools. By leveraging the power of SQL, developers can quickly and easily extract the data they need to gain insights into user behavior, product performance, and overall business performance. The project is open-source and available on GitHub for anyone to use and contribute to.
+
+Original database was from https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project 
